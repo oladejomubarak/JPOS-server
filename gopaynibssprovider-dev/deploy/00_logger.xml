@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<logger name="Q2">
+    <log-listener class="org.jpos.util.SimpleLogListener"/>
+    <log-listener class="org.jpos.util.ProtectedLogListener">
+        <property name="protect" value="2 35 45 49.2 55" />
+        <property name="wipe" value="48" />
+    </log-listener>
+</logger>

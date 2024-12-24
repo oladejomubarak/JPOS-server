@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gopay_Middleware_Servers.iml" filepath="$PROJECT_DIR$/.idea/Gopay_Middleware_Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gopaycore-dev/gopaycore.iml" filepath="$PROJECT_DIR$/gopaycore-dev/gopaycore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gopaykeyservice-dev/gopaykeyservice.iml" filepath="$PROJECT_DIR$/gopaykeyservice-dev/gopaykeyservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gopaynibssprovider-dev/gopaynibssprovider.iml" filepath="$PROJECT_DIR$/gopaynibssprovider-dev/gopaynibssprovider.iml" />
+    </modules>
+  </component>
+</project>

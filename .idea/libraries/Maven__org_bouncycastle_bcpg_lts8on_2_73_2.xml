@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.bouncycastle:bcpg-lts8on:2.73.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpg-lts8on/2.73.2/bcpg-lts8on-2.73.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpg-lts8on/2.73.2/bcpg-lts8on-2.73.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpg-lts8on/2.73.2/bcpg-lts8on-2.73.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
